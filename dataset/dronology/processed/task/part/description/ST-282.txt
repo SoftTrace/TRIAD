@@ -1,0 +1,1 @@
+add compon emerg oper call map oper add button call follow select uav map uav map uav select button follow select uav disabl uav select button enabl click follow select uav automat zoom pan map select uav rectangl bound select uav center map constitut click uav zoom pan map uav plan rout rectangl bound uav plan rout center map constitut 

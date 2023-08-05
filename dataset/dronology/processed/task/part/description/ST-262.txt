@@ -1,0 +1,1 @@
+replac exist coordin implement new lla coordin requir updat flight simul work doubl valu instead long ui adapt coordin correct addit function modifi waypoint lla coordin immut 

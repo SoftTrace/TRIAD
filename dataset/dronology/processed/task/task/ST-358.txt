@@ -1,0 +1,1 @@
+dynam add remov uav follow follow mode select new uav add group uav current follow unselect uav remov group updat indic bar accord uav unselect zoom show uav perform function same show uav map 

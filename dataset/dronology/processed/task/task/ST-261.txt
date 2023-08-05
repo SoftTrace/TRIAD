@@ -1,0 +1,1 @@
+creat function function take wgs posit current posit target posit number meter travel return new wgs posit specifi distanc away 
